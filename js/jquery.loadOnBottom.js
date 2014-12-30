@@ -1,3 +1,5 @@
+/* GITHUB: https://github.com/andrejleal */
+
 (function ($) {
     $.fn.loadOnBottom = function ( offset , callbackIfTrue , callbackIfFalse) {
         $(window).scroll(function () {

@@ -1,3 +1,5 @@
+/* GITHUB: https://github.com/andrejleal */
+
 (function ($) {
     $.fn.onClickOut = function (funcToExecute) {
 
